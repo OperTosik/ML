@@ -1,3 +1,3 @@
 # ML
 Machine Learning
-В диретории [a link](https://github.com/)
+Ссылка на [ДЗ](https://github.com/OperTosik/ML/tree/main/hw)
