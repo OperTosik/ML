@@ -1,0 +1,6 @@
+# ignore datasets
+**/dataset
+
+# double ignored
+*.csv
+
