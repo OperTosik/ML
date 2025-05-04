@@ -4,3 +4,5 @@
 # double ignored
 *.csv
 
+# ignore directory saves
+saves
