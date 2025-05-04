@@ -1,3 +1,3 @@
 # ML
 Machine Learning <br />
-Ссылка на [ДЗ](https://github.com/OperTosik/ML/tree/main/hw)
+Ссылка на [ДЗ: HousePrices](https://github.com/OperTosik/ML/tree/main/hw/task3)
