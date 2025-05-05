@@ -6,3 +6,6 @@
 
 # ignore directory saves
 saves
+
+#ignore directoyry catboost_info
+**/catboost_info
